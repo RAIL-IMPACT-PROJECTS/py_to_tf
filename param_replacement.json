@@ -1,0 +1,11 @@
+{
+    "format_version": 1,
+    "operations": [
+        {
+        "op_name": "Resize",
+        "param_target": "images",
+        "param_name": "Concat",
+        "values": [640,640]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+.vscode/
+.vs/
+.idea/
+model/
+models/
+venv/
+**.onnx
